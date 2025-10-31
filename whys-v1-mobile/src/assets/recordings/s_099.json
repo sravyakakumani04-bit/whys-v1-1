@@ -1,0 +1,31 @@
+{
+"id": "s_099",
+"title": "walk and through",
+"startedAt": "2025-10-11T21:02:00-04:00",
+"durationSec": 1104,
+"transcript": [
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." },
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." },
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." },
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." },
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." },
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." },
+{ "ts": 0, "speaker": "Me", "text": "Walk and talk: brainstorming Whys onboarding." },
+{ "ts": 210, "speaker": "Me", "text": "Auth screens palette: C1, C2, C3, keep it light." }
+
+],
+"summary": {
+"bullets": ["Onboarding brainstorm", "Auth palette chosen"],
+"sentiment": "positive",
+"keywords": ["onboarding", "auth", "palette"]
+},
+"todos": [
+{ "id": "t1", "text": "Design Forgot Password flow", "done": false }
+]
+}

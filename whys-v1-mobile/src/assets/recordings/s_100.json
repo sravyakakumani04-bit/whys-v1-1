@@ -1,0 +1,20 @@
+{
+"id": "s_100",
+"title": "Standup with team",
+"startedAt": "2025-10-12T09:15:00-04:00",
+"durationSec": 356,
+"transcript": [
+{ "ts": 0, "speaker": "S1", "text": "Yesterday: merged PR, fixed keyboard avoid issue." },
+{ "ts": 30, "speaker": "S2", "text": "Today: focus on NavigationBar and records page." },
+{ "ts": 110, "speaker": "S3", "text": "Blockers: flaky test on Android shadows." }
+],
+"summary": {
+"bullets": ["PR merged", "Keyboard fix", "Android shadow bug open"],
+"sentiment": "neutral",
+"keywords": ["standup", "PR", "Android"]
+},
+"todos": [
+{ "id": "t1", "text": "Retry Android shadow reproduction", "done": false },
+{ "id": "t2", "text": "Close PR #214 after QA", "done": true }
+]
+}

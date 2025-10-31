@@ -1,0 +1,5 @@
+[
+  { "id": "1", "title": "Today", "subtitle": "2 sessions • 4 insights", "link": "whys://today" },
+  { "id": "2", "title": "Streak", "subtitle": "5 days on track 💪", "link": "whys://streak" },
+  { "id": "3", "title": "Tip", "subtitle": "Hydrate and take a 5-min walk", "link": "whys://tip" }
+]

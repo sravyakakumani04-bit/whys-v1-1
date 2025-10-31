@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "date": "2024-08-02",
+      "title": "Meeting with Sarah",
+      "summary": "Discussed Q3 strategy and project milestones.",
+      "category": "Conversation"
+    },
+    {
+      "id": "2",
+      "date": "2024-07-30",
+      "title": "Daily Insights Report",
+      "summary": "Summary of Monday's conversations and key takeaways.",
+      "category": "Report"
+    },
+    {
+      "id": "3",
+      "date": "2024-07-28",
+      "title": "Reflection on Week",
+      "summary": "Thoughts on personal growth and upcoming challenges.",
+      "category": "Reflection"
+    },
+    {
+      "id": "4",
+      "date": "2024-07-25",
+      "title": "Brainstorm Session",
+      "summary": "Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.Ideation for new product features with the team.",
+      "category": "Conversation"
+    }
+    
+  ]
+}

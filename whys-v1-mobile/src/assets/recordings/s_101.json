@@ -1,0 +1,25 @@
+{
+"id": "s_101",
+"title": "Daily journal Daily journal Daily journal  ",
+"startedAt": "2025-10-12T19:41:00-04:00",
+"durationSec": 723,
+"transcript": [
+{ "ts": 0, "speaker": "Me", "text": "Starting today's reflection. I felt productive but a bit scattered." },
+{ "ts": 42, "speaker": "Me", "text": "Top wins were finishing the AutoCarousel and cleaning the header." },
+{ "ts": 120, "speaker": "Me", "text": "Tomorrow, focus on wiring the recording detail screen and polishing the palette." }
+],
+"summary": {
+"bullets": [
+"Productive day with UI progress",
+"Need to finalize recording detail navigation",
+"Mood: calm, slightly distracted"
+],
+"sentiment": "neutral",
+"keywords": ["UI", "recordings", "palette", "focus"]
+},
+"todos": [
+{ "id": "t1", "text": "Hook RecordingsListJson → RecordingDetailScreen", "done": false },
+{ "id": "t2", "text": "Add scroll-to-time on transcript tap", "done": false },
+{ "id": "t3", "text": "Export summary to Notes", "done": true }
+]
+}

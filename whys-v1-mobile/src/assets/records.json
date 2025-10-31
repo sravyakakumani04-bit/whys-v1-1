@@ -1,0 +1,25 @@
+[
+  { "id": "s_101", "title": "Daily journal", "startedAt": "2025-10-12T19:41:00-04:00", "durationSec": 723 },
+  { "id": "s_100", "title": "Standup with team", "startedAt": "2025-10-12T09:15:00-04:00", "durationSec": 356 },
+  { "id": "s_099", "title": "Walk and thoughts", "startedAt": "2025-10-11T21:02:00-04:00", "durationSec": 1104 },
+
+  { "id": "s_098", "title": "Sprint retro", "startedAt": "2025-09-30T18:45:00-04:00", "durationSec": 842 },
+  { "id": "s_097", "title": "Weekly planning", "startedAt": "2025-09-08T09:00:00-04:00", "durationSec": 512 },
+
+  { "id": "s_096", "title": "Product ideas", "startedAt": "2025-08-24T21:10:00-04:00", "durationSec": 967 },
+  { "id": "s_095", "title": "Morning reflections", "startedAt": "2025-08-02T08:32:00-04:00", "durationSec": 603 },
+
+  { "id": "s_094", "title": "Design critique", "startedAt": "2025-07-18T19:55:00-04:00", "durationSec": 1286 },
+  { "id": "s_093", "title": "Run & notes", "startedAt": "2025-07-01T07:20:00-04:00", "durationSec": 421 },
+
+  { "id": "s_092", "title": "Roadmap sync", "startedAt": "2025-06-15T22:40:00-04:00", "durationSec": 1102 },
+
+  { "id": "s_091", "title": "Mentor check-in", "startedAt": "2025-05-27T12:05:00-04:00", "durationSec": 887 },
+
+  { "id": "s_090", "title": "Weekly review", "startedAt": "2025-04-12T20:30:00-04:00", "durationSec": 754 },
+
+  { "id": "s_089", "title": "Feature brainstorm", "startedAt": "2025-03-26T14:45:00-04:00", "durationSec": 936 },
+
+  { "id": "s_088", "title": "Reading notes", "startedAt": "2025-02-10T19:25:00-05:00", "durationSec": 512 },
+  { "id": "s_087", "title": "New year goals", "startedAt": "2025-01-29T08:50:00-05:00", "durationSec": 689 }
+]
