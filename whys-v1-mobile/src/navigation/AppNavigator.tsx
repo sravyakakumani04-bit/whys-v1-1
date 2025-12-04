@@ -11,6 +11,8 @@ import { RootStackParamList } from "./types"; // <-- import the shared type
 import VoicePrintsScreen from "../screens/VoicePrints";
 import RecordingScreen from "../screens/RecordingScreen";
 import JournalDetailScreen from "../screens/journalDetail";
+import SignInScreen from "../screens/SignInScreen";
+import SignUpScreen from "../screens/SignUpScreen";
 
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -18,7 +20,7 @@ const Stack = createNativeStackNavigator<RootStackParamList>();
 export default function AppNavigator() {
   return (
     
-      <Stack.Navigator screenOptions={{ headerShown: false,animation: "none" }}>
+      <Stack.Navigator  initialRouteName="Home"    screenOptions={{ headerShown: false,animation: "none" }}>
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="Journal" component={Journals} /> 
         <Stack.Screen name= "chat" component={ChatScreen} />
@@ -27,7 +29,8 @@ export default function AppNavigator() {
         <Stack.Screen name="VoicePrints" component={VoicePrintsScreen} options={{ headerShown: false }} />
         <Stack.Screen name="Recording" component={RecordingScreen} />
         <Stack.Screen name="JournalDetail" component={JournalDetailScreen} />
-        
+        <Stack.Screen name="SignIn" component={SignInScreen} />
+        <Stack.Screen name="SignUp" component={SignUpScreen} />
       </Stack.Navigator>
     
   );

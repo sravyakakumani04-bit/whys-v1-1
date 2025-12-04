@@ -11,5 +11,7 @@ export type RootStackParamList = {
   VoicePrints:undefined;
   Recording: undefined;
   JournalDetail: { item: JournalItem };
+  SignIn: undefined;
+  SignUp: undefined;
   
 };

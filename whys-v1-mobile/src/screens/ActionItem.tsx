@@ -390,6 +390,7 @@ import { v, vs } from "../utils/size";
 import { colors } from "../constants/colors";
 import RecordingsListJson from "../components/recordingList";
 import BottomNav from "../components/NavigationBar";
+import FloatingAddButton from "../components/floatinfpill";
 
 export default function RecordingsScreen() {
   return (
@@ -406,6 +407,15 @@ export default function RecordingsScreen() {
 
       {/* Bottom navigation (optional) */}
       <BottomNav active="notes" />
+
+     <FloatingAddButton
+                    onPress={() => console.log("Add journal")}
+                    bottom={vs(90)}
+                    right={v(20)}
+                    // keep above scroll + nav
+                    iconName="mic"
+                    style={{ position: "absolute", zIndex: 20, elevation: 20 }}  // ✅ ensure on top
+                  />
     </View>
   );
 }

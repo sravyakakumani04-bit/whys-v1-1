@@ -23,7 +23,8 @@ export class ActionItemsController {
     }
 
     // inline defaults/coercions
-    const category = (body.category ?? '').toString().trim() ;
+
+    const category = body.category ? body.category.toString().trim() : '';
     const dueDate = body.dueDate ? new Date(body.dueDate) : null;
     if (dueDate && isNaN(dueDate.getTime())) throw new BadRequestException('Invalid dueDate');
     const completed = Boolean(body.completed);

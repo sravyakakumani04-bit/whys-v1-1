@@ -775,6 +775,7 @@ export default function RecordingScreen() {
           <Text style={styles.footerBtnText}>Use & Upload</Text>
         </Pressable>
       </View>
+      
     </View>
   );
 }
